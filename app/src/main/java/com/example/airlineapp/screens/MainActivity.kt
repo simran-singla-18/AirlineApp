@@ -1,4 +1,4 @@
-package com.example.airlineapp
+package com.example.airlineapp.screens
 
 import AirlineApp
 import android.os.Bundle

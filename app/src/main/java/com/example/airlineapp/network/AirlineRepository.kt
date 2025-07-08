@@ -1,5 +1,6 @@
-package com.example.airlineapp
+package com.example.airlineapp.network
 
+import com.example.airlineapp.models.AirlineModel
 import javax.inject.Inject
 
 class AirlineRepository @Inject constructor(private val api: AirlineApi) {

@@ -1,4 +1,4 @@
-package com.example.airlineapp
+package com.example.airlineapp.screens
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -24,6 +24,7 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
+import com.example.airlineapp.network.AirlineViewModel
 
 
 @Composable

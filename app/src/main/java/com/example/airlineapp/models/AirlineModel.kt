@@ -1,4 +1,4 @@
-package com.example.airlineapp
+package com.example.airlineapp.models
 
 data class AirlineModel(
     val id: String,

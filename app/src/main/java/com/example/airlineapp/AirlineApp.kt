@@ -1,5 +1,5 @@
-import com.example.airlineapp.AirlineDetailScreen
-import com.example.airlineapp.AirlineListScreen
+import com.example.airlineapp.screens.AirlineDetailScreen
+import com.example.airlineapp.screens.AirlineListScreen
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.*
 import androidx.compose.runtime.Composable

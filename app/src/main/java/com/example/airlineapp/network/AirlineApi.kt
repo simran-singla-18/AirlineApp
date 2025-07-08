@@ -1,5 +1,6 @@
-package com.example.airlineapp
+package com.example.airlineapp.network
 
+import com.example.airlineapp.models.AirlineModel
 import retrofit2.http.GET
 
 interface AirlineApi {

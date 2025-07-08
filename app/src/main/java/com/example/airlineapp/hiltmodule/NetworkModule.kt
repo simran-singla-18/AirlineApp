@@ -1,5 +1,6 @@
-package com.example.airlineapp
+package com.example.airlineapp.hiltmodule
 
+import com.example.airlineapp.network.AirlineApi
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
